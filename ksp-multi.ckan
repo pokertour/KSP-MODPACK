@@ -1,0 +1,115 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Mod-Pack-KSP-Multi",
+    "name": "Mod Pack KSP Multi",
+    "abstract": "A list of modules installed on the KSP Multi KSP instance",
+    "author": [
+        "Pokertour"
+    ],
+    "version": "2021.05.11.04.30.08",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "LunaMultiplayer"
+        },
+        {
+            "name": "AstronomersVisualPack"
+        },
+        {
+            "name": "AVP-4kTextures"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "RestockRigidLegs"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        },
+        {
+            "name": "SimpleAdjustableFairings-KWRocketry"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "WaterfallRestock"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "KSP-Recall"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SpaceXLegs"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage",
+    "release_date": "2021-05-11T18:30:08.1251132+02:00"
+}
