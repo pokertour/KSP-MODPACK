@@ -1,12 +1,12 @@
 {
     "spec_version": "v1.18",
-    "identifier": "Mod-Pack-KSP-Multi",
-    "name": "Mod Pack KSP Multi",
+    "identifier": "installed-KSP-Multi",
+    "name": "installed-KSP Multi",
     "abstract": "A list of modules installed on the KSP Multi KSP instance",
     "author": [
         "Pokertour"
     ],
-    "version": "2021.05.11.04.30.08",
+    "version": "2021.05.12.04.40.10",
     "license": [
         "unknown"
     ],
@@ -106,10 +106,61 @@
         },
         {
             "name": "SpaceXLegs"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoEngines-LFO"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "FreedomTex"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "ImprovedTreeEnginePlacement"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "NearFutureProps"
         }
     ],
     "recommends": [],
     "suggests": [],
     "kind": "metapackage",
-    "release_date": "2021-05-11T18:30:08.1251132+02:00"
+    "release_date": "2021-05-12T18:40:10.5690251+02:00"
 }
