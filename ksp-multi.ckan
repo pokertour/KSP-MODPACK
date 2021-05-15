@@ -6,9 +6,9 @@
     "author": [
         "Pokertour"
     ],
-    "version": "2021.05.12.04.40.10",
+    "version": "2021.05.15.06.14.12",
     "license": [
-        "unknown"
+        "open-source"
     ],
     "depends": [
         {
@@ -157,10 +157,22 @@
         },
         {
             "name": "NearFutureProps"
+        },
+        {
+            "name": "MainSailorTextures-Complete"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralFairings-ForEverything"
+        },
+        {
+            "name": "MainSailorTextures-Essentials"
         }
     ],
     "recommends": [],
     "suggests": [],
     "kind": "metapackage",
-    "release_date": "2021-05-12T18:40:10.5690251+02:00"
+    "release_date": "2021-05-15T20:14:12.0972034+02:00"
 }
