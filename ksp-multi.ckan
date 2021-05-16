@@ -6,7 +6,7 @@
     "author": [
         "Pokertour"
     ],
-    "version": "2021.05.15.06.14.12",
+    "version": "2021.05.16.01.11.49",
     "license": [
         "open-source"
     ],
@@ -169,10 +169,16 @@
         },
         {
             "name": "MainSailorTextures-Essentials"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
         }
     ],
     "recommends": [],
     "suggests": [],
     "kind": "metapackage",
-    "release_date": "2021-05-15T20:14:12.0972034+02:00"
+    "release_date": "2021-05-16T15:11:49.7240034+02:00"
 }
