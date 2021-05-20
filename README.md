@@ -6,6 +6,8 @@ Astronomer's Visual Pack (AstronomersVisualPack 3:v4.1)<br>
 Astronomer's Visual Pack-4k Textures (AVP-4kTextures v1.12)<br>
 B9 Part Switch (B9PartSwitch v2.18.0)<br>
 Breaking Ground (BreakingGround-DLC 1.6.0)<br>
+CommNet Antennas Consumptor (CommNetAntennasConsumptor 3.0.3)<br>
+CommNet Antennas Extension (CommNetAntennasExtension 2.1.4)<br>
 Community Resource Pack (CommunityResourcePack 1.4.2)<br>
 Community Tech Tree (CommunityTechTree 1:3.4.3)<br>
 Cryo Tanks (CryoTanks 1.6.0)<br>
@@ -28,6 +30,7 @@ Luna Multiplayer Client (LunaMultiplayer 0.27.0)<br>
 ModularFlightIntegrator (ModularFlightIntegrator 1.2.10.0)<br>
 Module Manager (ModuleManager 4.1.4)<br>
 Near Future Construction (NearFutureConstruction 1.3.1)<br>
+Near Future Exploration (NearFutureExploration 1.1.1)<br>
 Near Future IVA Props (NearFutureProps 1:0.6.4)<br>
 Near Future Launch Vehicles (NearFutureLaunchVehicles 2.1.3)<br>
 Near Future Solar (NearFutureSolar 1.3.1)<br>
@@ -41,6 +44,7 @@ Procedural Fairings - For Everything! (ProceduralFairings-ForEverything v0.3.0)<
 Procedural Parts (ProceduralParts v2.1.2)<br>
 Procedural Parts - MainSailor's Procedural Textures - Complete Texture Pack (MainSailorTextures-Complete 2.0.0.0.1)<br>
 Procedural Parts - MainSailor's Procedural Textures - Essential Textures and Flag (MainSailorTextures-Essentials 2.0.0.0.1)<br>
+RemoteTech Redev Antennas (RemoteTechRedevAntennas 0.1.1)<br>
 ReStock (ReStock 1.3.1)<br>
 ReStock Extra - Rigid Legs (RestockRigidLegs 1.3.1)<br>
 ReStock+ (ReStockPlus 1.3.1)<br>
