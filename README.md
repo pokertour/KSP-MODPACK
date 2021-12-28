@@ -2,60 +2,74 @@
 Mod pack Multi CKAN
 
 Liste :<br>
-Astronomer's Visual Pack (AstronomersVisualPack 3:v4.1)<br>
-Astronomer's Visual Pack-4k Textures (AVP-4kTextures v1.12)<br>
-B9 Part Switch (B9PartSwitch v2.18.0)<br>
-Breaking Ground (BreakingGround-DLC 1.6.0)<br>
-CommNet Antennas Consumptor (CommNetAntennasConsumptor 3.0.3)<br>
-CommNet Antennas Extension (CommNetAntennasExtension 2.1.4)<br>
-Community Resource Pack (CommunityResourcePack 1.4.2)<br>
-Community Tech Tree (CommunityTechTree 1:3.4.3)<br>
-Cryo Tanks (CryoTanks 1.6.0)<br>
-Cryo Tanks Core (CryoTanks-Core 1.6.0)<br>
-Cryogenic Engines (CryoEngines 1:2.0.1)<br>
-Cryogenic Engines - Liquid Fuel/Oxidizer (CryoEngines-LFO 1:2.0.1)<br>
-Deployable Engines Plugin (DeployableEngines 1.3.0)<br>
-Distant Object Enhancement Continued (DistantObject v2.0.2.0)<br>
-Distant Object Enhancement Continued default config (DistantObject-default v2.0.2.0)<br>
-Dynamic Battery Storage (DynamicBatteryStorage 2:2.2.2.0)<br>
-Environmental Visual Enhancements Redux (EnvironmentalVisualEnhancements 3:1.11.2.1)<br>
-Freedom Textures (FreedomTex 1:v1.5.1.0)<br>
-Hide Empty Tech Tree Nodes (HideEmptyTechNodes 1.3.0)<br>
-Improved Tree Engine Placement (ImprovedTreeEnginePlacement v1.4.0)<br>
-Kerbal Engineer Redux (KerbalEngineerRedux 1.1.8.3)<br>
-Kerbal Reusability Expansion (SpaceXLegs 2.9.1)<br>
-Kopernicus Planetary System Modifier (Kopernicus 2:release-1.11.1-38)<br>
-KSP Recall (KSP-Recall v0.2.0.0)<br>
-Luna Multiplayer Client (LunaMultiplayer 0.27.0)<br>
-ModularFlightIntegrator (ModularFlightIntegrator 1.2.10.0)<br>
-Module Manager (ModuleManager 4.1.4)<br>
-Near Future Construction (NearFutureConstruction 1.3.1)<br>
-Near Future Exploration (NearFutureExploration 1.1.1)<br>
-Near Future IVA Props (NearFutureProps 1:0.6.4)<br>
-Near Future Launch Vehicles (NearFutureLaunchVehicles 2.1.3)<br>
-Near Future Solar (NearFutureSolar 1.3.1)<br>
-Near Future Solar Core (NearFutureSolar-Core 1.3.1)<br>
-Parallax (Parallax 1.2.3)<br>
-Parallax - Stock Planet Textures (Parallax-StockTextures 1.2.3)<br>
-PlanetShine (PlanetShine 0.2.6.3)<br>
-PlanetShine - Default configuration (PlanetShine-Config-Default 0.2.6.3)<br>
-Procedural Fairings (ProceduralFairings 1:v1.8.3)<br>
-Procedural Fairings - For Everything! (ProceduralFairings-ForEverything v0.3.0)<br>
-Procedural Parts (ProceduralParts v2.1.2)<br>
-Procedural Parts - MainSailor's Procedural Textures - Complete Texture Pack (MainSailorTextures-Complete 2.0.0.0.1)<br>
-Procedural Parts - MainSailor's Procedural Textures - Essential Textures and Flag (MainSailorTextures-Essentials 2.0.0.0.1)<br>
-RemoteTech Redev Antennas (RemoteTechRedevAntennas 0.1.1)<br>
-ReStock (ReStock 1.3.1)<br>
-ReStock Extra - Rigid Legs (RestockRigidLegs 1.3.1)<br>
-ReStock+ (ReStockPlus 1.3.1)<br>
-scatterer (Scatterer 3:v0.0723)<br>
-Scatterer Default Config (Scatterer-config 3:v0.0723)<br>
-Scatterer Sunflare (Scatterer-sunflare 3:v0.0723)<br>
-Simple Adjustable Fairings - KW Rocketry Pack (SimpleAdjustableFairings-KWRocketry v1.4.0)<br>
-Simple Adjustable Fairings - Plugin (SimpleAdjustableFairings v1.12.0)<br>
-Stockalike Station Parts Expansion Redux (StationPartsExpansionRedux 1.4.0)<br>
-TextureReplacer (TextureReplacer v4.4)<br>
-Textures Unlimited (TexturesUnlimited 1.5.10.25)<br>
-TweakScale - Rescale Everything! (TweakScale v2.4.5.0)<br>
-Waterfall - Restock (WaterfallRestock 0.2.1)<br>
-Waterfall Core (Waterfall 0.6.3)<br>
+Astronomer's Visual Pack (AstronomersVisualPack 3:v4.11)
+Astronomer's Visual Pack-8k Textures (AVP-8kTextures v1.12)
+B9 Part Switch (B9PartSwitch v2.19.0)
+Breaking Ground (BreakingGround-DLC 1.7.1)
+ClickThrough Blocker (ClickThroughBlocker 1:0.1.10.17)
+CommNet Antennas Consumptor (CommNetAntennasConsumptor 3.5.3)
+CommNet Antennas Extension (CommNetAntennasExtension 2.1.6)
+CommNet Antennas Info (CommNetAntennasInfo 3.1.1)
+Community Category Kit (CommunityCategoryKit v5.2.0.0)
+Community Resource Pack (CommunityResourcePack 1.4.2)
+Community Tech Tree (CommunityTechTree 1:3.4.4)
+Cryo Tanks (CryoTanks 1.6.3)
+Cryo Tanks Core (CryoTanks-Core 1.6.3)
+Cryogenic Engines (CryoEngines 1:2.0.5)
+Deployable Engines Plugin (DeployableEngines 1.3.1)
+Distant Object Enhancement /L (DistantObject v2.1.1.6)
+Distant Object Enhancement /L default config (DistantObject-default v2.1.1.6)
+Dynamic Battery Storage (DynamicBatteryStorage 2:2.2.5.0)
+Editor Extensions Redux (EditorExtensionsRedux 3.4.3.5)
+Engine Lighting Relit (EngineLightRelit 1.6.3.1)
+Environmental Visual Enhancements Redux (EnvironmentalVisualEnhancements 3:1.11.6.1)
+Freedom Textures (FreedomTex 1:v1.5.1.0)
+Harmony 2 (Harmony2 2.0.4.0)
+Hide Empty Tech Tree Nodes (HideEmptyTechNodes 1.3.0)
+Kerbal Engineer Redux (KerbalEngineerRedux 1.1.9.0)
+Kopernicus Planetary System Modifier (Kopernicus 2:release-1.12.1-70)
+KSP Recall (KSP-Recall v0.2.1.3)
+Luna Multiplayer Client (LunaMultiplayer 0.28.0)
+MechJeb 2 (MechJeb2 2.12.3.0)
+ModularFlightIntegrator (ModularFlightIntegrator 1.2.10.0)
+Module Manager (ModuleManager 4.2.1)
+Near Future Construction (NearFutureConstruction 1.3.1)
+Near Future Electrical (NearFutureElectrical 1.2.3)
+Near Future Electrical Core (NearFutureElectrical-Core 1.2.3)
+Near Future Exploration (NearFutureExploration 1.1.2)
+Near Future IVA Props (NearFutureProps 1:0.7.1)
+Near Future Launch Vehicles (NearFutureLaunchVehicles 2.2.0)
+Near Future Propulsion (NearFuturePropulsion 1.3.5)
+Near Future Solar (NearFutureSolar 1.3.2)
+Near Future Solar Core (NearFutureSolar-Core 1.3.2)
+Near Future Spacecraft (NearFutureSpacecraft 1.4.3)
+PlanetShine (PlanetShine 0.2.6.3)
+PlanetShine - Default configuration (PlanetShine-Config-Default 0.2.6.3)
+Pood's Milky Way Skybox (PoodsMilkyWaySkybox v.1.3.0)
+Procedural Parts (ProceduralParts v2.3.0)
+Procedural Parts - MainSailor's Procedural Textures - Complete Texture Pack (MainSailorTextures-Complete 2.0.0.0.1)
+Procedural Parts - MainSailor's Procedural Textures - Essential Textures and Flag (MainSailorTextures-Essentials 2.0.0.0.1)
+Reentry Particle Effect Renewed (ReentryParticleEffect 1.9.1.1)
+RemoteTech Redev Antennas (RemoteTechRedevAntennas 0.1.1)
+ReStock (ReStock 1.4.2)
+ReStock Extra - Rigid Legs (RestockRigidLegs 1.4.2)
+ReStock+ (ReStockPlus 1.4.2)
+scatterer (Scatterer 3:v0.0828)
+Scatterer Default Config (Scatterer-config 3:v0.0828)
+Scatterer Sunflare (Scatterer-sunflare 3:v0.0828)
+Simple Adjustable Fairings - KW Rocketry Pack (SimpleAdjustableFairings-KWRocketry v1.4.0)
+Simple Adjustable Fairings - Plugin (SimpleAdjustableFairings v1.12.0)
+SmokeScreen - Extended FX Plugin (SmokeScreen 2.8.14.0)
+SpaceTux Library (SpaceTuxLibrary 0.0.8.4)
+Staged Animation (StagedAnimation v2.0)
+Stockalike Station Parts Expansion Redux (StationPartsExpansionRedux 1.4.0)
+Stockalike Station Parts Expansion Redux - Metal Surfaces (StationPartsExpansionRedux-Metal 1.4.0)
+TextureReplacer (TextureReplacer v4.5.2)
+Textures Unlimited (TexturesUnlimited 1.5.10.25)
+The Janitor's Closet (JanitorsCloset 0.3.7.8)
+Toolbar Controller (ToolbarController 1:0.1.9.6)
+TweakScale - Rescale Everything! (TweakScale v2.4.6.8)
+TweakScale Companion for ReStockPlus (TweakScaleCompanion-ReStockPlus v1.1.0.0)
+Waterfall - Restock (WaterfallRestock 0.2.3)
+Waterfall Core (Waterfall 0.7.1)
+Zero MiniAVC (ZeroMiniAVC 1:1.1.2.4)
