@@ -1,0 +1,232 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-Multi",
+    "name": "installed-Multi",
+    "abstract": "A list of modules installed on the Multi KSP instance",
+    "author": [
+        "pokertour"
+    ],
+    "version": "2021.12.28.12.03.04",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "LunaMultiplayer"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "EngineLightRelit"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "TweakScaleCompanion-ReStockPlus"
+        },
+        {
+            "name": "CommNetAntennasExtension"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "CommNetAntennasInfo"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "AVP-8kTextures"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "AstronomersVisualPack"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "WaterfallRestock"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "ReentryParticleEffect"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        },
+        {
+            "name": "SimpleAdjustableFairings-KWRocketry"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "RestockRigidLegs"
+        },
+        {
+            "name": "PoodsMilkyWaySkybox"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "MainSailorTextures-Complete"
+        },
+        {
+            "name": "MainSailorTextures-Essentials"
+        },
+        {
+            "name": "FreedomTex"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "KSP-Recall"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "RemoteTechRedevAntennas"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StationPartsExpansionRedux-Metal"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "StagedAnimation"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "CommNetAntennasConsumptor"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage",
+    "release_date": "2021-12-28T13:03:04.2086808+01:00"
+}
