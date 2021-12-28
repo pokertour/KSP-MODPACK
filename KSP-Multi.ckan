@@ -6,7 +6,7 @@
     "author": [
         "pokertour"
     ],
-    "version": "2021.12.28.12.03.04",
+    "version": "2021.12.28.05.34.44",
     "license": [
         "unknown"
     ],
@@ -201,9 +201,6 @@
             "name": "StationPartsExpansionRedux"
         },
         {
-            "name": "StationPartsExpansionRedux-Metal"
-        },
-        {
             "name": "Kopernicus"
         },
         {
@@ -228,5 +225,5 @@
     "recommends": [],
     "suggests": [],
     "kind": "metapackage",
-    "release_date": "2021-12-28T13:03:04.2086808+01:00"
+    "release_date": "2021-12-28T18:34:44.9388303+01:00"
 }
