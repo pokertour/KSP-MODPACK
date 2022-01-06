@@ -6,7 +6,7 @@
     "author": [
         "pokertour"
     ],
-    "version": "2021.12.28.05.34.44",
+    "version": "2022.01.06.03.17.37",
     "license": [
         "unknown"
     ],
@@ -220,10 +220,13 @@
         },
         {
             "name": "CommNetAntennasConsumptor"
+        },
+        {
+            "name": "BetterTimeWarpCont"
         }
     ],
     "recommends": [],
     "suggests": [],
     "kind": "metapackage",
-    "release_date": "2021-12-28T18:34:44.9388303+01:00"
+    "release_date": "2022-01-06T16:17:37.5238651+01:00"
 }
