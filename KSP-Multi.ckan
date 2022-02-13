@@ -1,14 +1,14 @@
 {
     "spec_version": "v1.18",
-    "identifier": "installed-Multi",
-    "name": "installed-Multi",
+    "identifier": "Multi",
+    "name": "Multi Luna",
     "abstract": "A list of modules installed on the Multi KSP instance",
     "author": [
-        "pokertour"
+        "Pokertour"
     ],
-    "version": "2022.01.06.03.17.37",
+    "version": "2022.02.13.12.39.37",
     "license": [
-        "unknown"
+        "open-source"
     ],
     "depends": [
         {
@@ -33,7 +33,7 @@
             "name": "NearFutureElectrical"
         },
         {
-            "name": "EngineLightRelit"
+            "name": "BetterTimeWarpCont"
         },
         {
             "name": "Harmony2"
@@ -48,7 +48,7 @@
             "name": "TextureReplacer"
         },
         {
-            "name": "Scatterer-config"
+            "name": "Scatterer-sunflare"
         },
         {
             "name": "TweakScaleCompanion-ReStockPlus"
@@ -123,7 +123,7 @@
             "name": "ReentryParticleEffect"
         },
         {
-            "name": "CryoTanks-Core"
+            "name": "CryoEngines"
         },
         {
             "name": "SimpleAdjustableFairings"
@@ -156,7 +156,7 @@
             "name": "NearFuturePropulsion"
         },
         {
-            "name": "CryoTanks"
+            "name": "StationPartsExpansionRedux"
         },
         {
             "name": "ZeroMiniAVC"
@@ -183,7 +183,7 @@
             "name": "Scatterer"
         },
         {
-            "name": "Scatterer-sunflare"
+            "name": "Scatterer-config"
         },
         {
             "name": "ModuleManager"
@@ -198,13 +198,13 @@
             "name": "NearFutureProps"
         },
         {
-            "name": "StationPartsExpansionRedux"
+            "name": "CryoTanks"
         },
         {
             "name": "Kopernicus"
         },
         {
-            "name": "CryoEngines"
+            "name": "CryoTanks-Core"
         },
         {
             "name": "NearFutureLaunchVehicles"
@@ -222,11 +222,29 @@
             "name": "CommNetAntennasConsumptor"
         },
         {
-            "name": "BetterTimeWarpCont"
+            "name": "EngineLightRelit"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralFairings-ForEverything"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "BonVoyage"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "CameraTools"
         }
     ],
     "recommends": [],
     "suggests": [],
     "kind": "metapackage",
-    "release_date": "2022-01-06T16:17:37.5238651+01:00"
+    "release_date": "2022-02-13T13:39:37.0599544+01:00"
 }
