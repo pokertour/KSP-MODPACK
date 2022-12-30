@@ -1,39 +1,92 @@
 {
     "spec_version": "v1.18",
-    "identifier": "Multi",
-    "name": "Multi Luna",
-    "abstract": "A list of modules installed on the Multi KSP instance",
+    "identifier": "KSP-Multi",
+    "name": "KSP-Multi",
+    "abstract": "Une liste des modules installés sur l'instance KSP Multi",
     "author": [
-        "Pokertour"
+        "pokertour"
     ],
-    "version": "2022.02.13.12.39.37",
+    "version": "2022.12.30.10.11.53",
+    "ksp_version_min": "1.9",
+    "ksp_version_max": "1.12",
     "license": [
-        "open-source"
+        "unknown"
     ],
     "depends": [
+        {
+            "name": "AstronomersVisualPack"
+        },
+        {
+            "name": "AVP-8kTextures"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "BonVoyage"
+        },
+        {
+            "name": "CameraTools"
+        },
         {
             "name": "ClickThroughBlocker"
         },
         {
-            "name": "NearFutureConstruction"
+            "name": "CommNetAntennasConsumptor"
         },
         {
-            "name": "NearFutureElectrical-Core"
+            "name": "CommNetAntennasExtension"
         },
         {
-            "name": "LunaMultiplayer"
+            "name": "CommNetAntennasInfo"
         },
         {
-            "name": "SpaceTuxLibrary"
+            "name": "CommunityCategoryKit"
         },
         {
             "name": "CommunityResourcePack"
         },
         {
-            "name": "NearFutureElectrical"
+            "name": "CommunityTechTree"
         },
         {
-            "name": "BetterTimeWarpCont"
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "EngineLightRelit"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "HangerExtenderExtended"
         },
         {
             "name": "Harmony2"
@@ -42,106 +95,22 @@
             "name": "HideEmptyTechNodes"
         },
         {
-            "name": "DistantObject"
-        },
-        {
-            "name": "TextureReplacer"
-        },
-        {
-            "name": "Scatterer-sunflare"
-        },
-        {
-            "name": "TweakScaleCompanion-ReStockPlus"
-        },
-        {
-            "name": "CommNetAntennasExtension"
-        },
-        {
-            "name": "ReStock"
-        },
-        {
-            "name": "NearFutureExploration"
-        },
-        {
-            "name": "CommNetAntennasInfo"
+            "name": "JanitorsCloset"
         },
         {
             "name": "KerbalEngineerRedux"
         },
         {
-            "name": "ReStockPlus"
+            "name": "Kopernicus"
         },
         {
-            "name": "AVP-8kTextures"
+            "name": "KSP-Recall"
         },
         {
-            "name": "EnvironmentalVisualEnhancements"
+            "name": "KSPCommunityFixes"
         },
         {
-            "name": "ToolbarController"
-        },
-        {
-            "name": "AstronomersVisualPack"
-        },
-        {
-            "name": "TweakScale"
-        },
-        {
-            "name": "Waterfall"
-        },
-        {
-            "name": "ProceduralParts"
-        },
-        {
-            "name": "NearFutureSolar-Core"
-        },
-        {
-            "name": "NearFutureSolar"
-        },
-        {
-            "name": "ModularFlightIntegrator"
-        },
-        {
-            "name": "MechJeb2"
-        },
-        {
-            "name": "WaterfallRestock"
-        },
-        {
-            "name": "DistantObject-default"
-        },
-        {
-            "name": "PlanetShine"
-        },
-        {
-            "name": "SmokeScreen"
-        },
-        {
-            "name": "PlanetShine-Config-Default"
-        },
-        {
-            "name": "ReentryParticleEffect"
-        },
-        {
-            "name": "CryoEngines"
-        },
-        {
-            "name": "SimpleAdjustableFairings"
-        },
-        {
-            "name": "SimpleAdjustableFairings-KWRocketry"
-        },
-        {
-            "name": "CommunityCategoryKit"
-        },
-        {
-            "name": "RestockRigidLegs"
-        },
-        {
-            "name": "PoodsMilkyWaySkybox"
-        },
-        {
-            "name": "B9PartSwitch"
+            "name": "LunaMultiplayer"
         },
         {
             "name": "MainSailorTextures-Complete"
@@ -150,79 +119,52 @@
             "name": "MainSailorTextures-Essentials"
         },
         {
-            "name": "FreedomTex"
+            "name": "MechJeb2"
         },
         {
-            "name": "NearFuturePropulsion"
-        },
-        {
-            "name": "StationPartsExpansionRedux"
-        },
-        {
-            "name": "ZeroMiniAVC"
-        },
-        {
-            "name": "TexturesUnlimited"
-        },
-        {
-            "name": "KSP-Recall"
-        },
-        {
-            "name": "DeployableEngines"
-        },
-        {
-            "name": "DynamicBatteryStorage"
-        },
-        {
-            "name": "NearFutureSpacecraft"
-        },
-        {
-            "name": "BreakingGround-DLC"
-        },
-        {
-            "name": "Scatterer"
-        },
-        {
-            "name": "Scatterer-config"
+            "name": "ModularFlightIntegrator"
         },
         {
             "name": "ModuleManager"
         },
         {
-            "name": "CommunityTechTree"
+            "name": "NearFutureConstruction"
         },
         {
-            "name": "RemoteTechRedevAntennas"
+            "name": "NearFutureElectrical"
         },
         {
-            "name": "NearFutureProps"
+            "name": "NearFutureElectrical-Core"
         },
         {
-            "name": "CryoTanks"
-        },
-        {
-            "name": "Kopernicus"
-        },
-        {
-            "name": "CryoTanks-Core"
+            "name": "NearFutureExploration"
         },
         {
             "name": "NearFutureLaunchVehicles"
         },
         {
-            "name": "StagedAnimation"
+            "name": "NearFutureProps"
         },
         {
-            "name": "EditorExtensionsRedux"
+            "name": "NearFuturePropulsion"
         },
         {
-            "name": "JanitorsCloset"
+            "name": "NearFutureSolar"
         },
         {
-            "name": "CommNetAntennasConsumptor"
+            "name": "NearFutureSolar-Core"
         },
         {
-            "name": "EngineLightRelit"
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "PoodsMilkyWaySkybox"
         },
         {
             "name": "ProceduralFairings"
@@ -231,20 +173,78 @@
             "name": "ProceduralFairings-ForEverything"
         },
         {
-            "name": "HangerExtenderExtended"
+            "name": "ProceduralParts"
         },
         {
-            "name": "BonVoyage"
+            "name": "ReentryParticleEffect"
         },
         {
-            "name": "DockingPortAlignmentIndicator"
+            "name": "RemoteTechRedevAntennas"
         },
         {
-            "name": "CameraTools"
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "RestockRigidLegs"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        },
+        {
+            "name": "SimpleAdjustableFairings-KWRocketry"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "StagedAnimation"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "TweakScale-Redist"
+        },
+        {
+            "name": "TweakScaleCompanion-ReStockPlus"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "WaterfallRestock"
+        },
+        {
+            "name": "ZeroMiniAVC"
         }
     ],
-    "recommends": [],
-    "suggests": [],
-    "kind": "metapackage",
-    "release_date": "2022-02-13T13:39:37.0599544+01:00"
+    "release_date": "2022-12-30T23:11:53.5657466+01:00",
+    "kind": "metapackage"
 }
